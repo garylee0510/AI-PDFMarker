@@ -23,8 +23,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Install Webpack CLI
-        run: npm install --no-save webpack webpack-cli
-
       - name: Build
-        run: npx --no-install webpack --mode production
+        run: npm build
