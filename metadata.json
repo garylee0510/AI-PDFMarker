@@ -1,8 +1,0 @@
-{
-  "name": "Remix 2 PDF 轉 Markdown 智慧物件轉換器",
-  "description": "直覺預覽 PDF、框選頁面物件，自訂轉換標題、表格、程式碼、公式或圖片並智慧輸出為乾淨 Markdown。",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
